@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "gridcraft",
+    "version": "0.11.1",
+    "tag": "v0.11.1",
+    "archive": "gridcraft-0.11.1-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/gridcraft/releases/download/v0.11.1/gridcraft-0.11.1-linux-x86_64.tar.gz",
+    "hash": "sha256-8sg+bCZEmmxFmD6QO/MsHUwwKyBC8mPq2ZUnESnHDoc="
+  },
+  "package": {
+    "repo": "gridcraft",
+    "version": "0.11.1"
+  },
+  "binary": {
+    "name": "gridcraft"
+  },
+  "meta": {
+    "description": "Gridcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/gridcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
